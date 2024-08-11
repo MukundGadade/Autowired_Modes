@@ -25,5 +25,9 @@ public class Report_Service {
 //		String report = Oracle.Report_Data_Status();
 		
 		System.out.println(report);
+		
+		String str = "Welcome to the World of coding!";
+		
+		System.out.println(str);
 	}
 }
