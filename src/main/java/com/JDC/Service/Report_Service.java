@@ -25,5 +25,6 @@ public class Report_Service {
 //		String report = Oracle.Report_Data_Status();
 		
 		System.out.println(report);
+		System.out.println(report);
 	}
 }
